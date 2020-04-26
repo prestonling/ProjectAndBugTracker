@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectAndBugTracker", "ProjectAndBugTracker\ProjectAndBugTracker.csproj", "{EFEF8480-3407-4DE1-B9D0-6D1191A8078C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFEF8480-3407-4DE1-B9D0-6D1191A8078C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEF8480-3407-4DE1-B9D0-6D1191A8078C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEF8480-3407-4DE1-B9D0-6D1191A8078C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEF8480-3407-4DE1-B9D0-6D1191A8078C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
